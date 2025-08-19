@@ -1,10 +1,3 @@
-//
-//  CopyCleaner.swift
-//  copy
-//
-//  Created by Yujiro on 2025. 08. 18..
-//
-
 import AppKit
 
 final class CleanCopy: ObservableObject{
