@@ -1,0 +1,56 @@
+# Xcode
+#
+build/
+DerivedData/
+*.xcworkspace/xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+*.moved-aside
+*.xcuserdatad
+*.xcworkspace/contents.xcworkspacedata
+
+# Swift Package Manager
+#
+.swiftpm/
+.build/
+Package.resolved
+
+# CocoaPods
+#
+Pods/
+
+# Carthage
+#
+Carthage/Build/
+
+# macOS
+#
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.lock
+Icon?
+._*
+
+# Archives
+*.zip
+*.dmg
+*.tar.gz
+*.tgz
+
+# User-specific
+*.orig
+*.log
+*.user
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Xcode generated
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
